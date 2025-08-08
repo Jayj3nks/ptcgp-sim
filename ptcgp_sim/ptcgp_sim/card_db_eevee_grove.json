@@ -1,0 +1,1981 @@
+[
+  {
+    "name": "Tropius",
+    "type": "Grass",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Cutting Wind",
+        "damage": 60,
+        "effect": "",
+        "energy_cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Tropius"
+    ]
+  },
+  {
+    "name": "Leafeon",
+    "type": "Grass",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Leaf Blast",
+        "damage": 10,
+        "effect": "This attack does 20 more damage for each [G] Energy attached to this Pokémon.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Leafeon"
+    ]
+  },
+  {
+    "name": "Bounsweet",
+    "type": "Grass",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": 10,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Bounsweet",
+      "Steenee",
+      "Tsareena"
+    ]
+  },
+  {
+    "name": "Steenee",
+    "type": "Grass",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Leaf Step",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Bounsweet",
+      "Steenee",
+      "Tsareena"
+    ]
+  },
+  {
+    "name": "Tsareena",
+    "type": "Grass",
+    "hp": 140,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Kick Down",
+        "damage": 50,
+        "effect": "Your opponent reveals a random card from their hand and shuffles it into their deck.",
+        "energy_cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Bounsweet",
+      "Steenee",
+      "Tsareena"
+    ]
+  },
+  {
+    "name": "Applin",
+    "type": "Grass",
+    "hp": 40,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Applin",
+      "Appletun"
+    ]
+  },
+  {
+    "name": "Appletun",
+    "type": "Grass",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": 40,
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage.",
+        "energy_cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Applin",
+      "Appletun"
+    ]
+  },
+  {
+    "name": "Flareon",
+    "type": "Fire",
+    "hp": 110,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Assisting Heater",
+        "damage": 40,
+        "effect": "Take a [R] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "energy_cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Flareon"
+    ]
+  },
+  {
+    "name": "Flareon ex",
+    "type": "Fire",
+    "hp": 150,
+    "abilities": [
+      {
+        "name": "Ability Combust",
+        "effect": "Once during your turn, you may attach a [R] Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "damage": 130,
+        "effect": "Discard 2 [R] Energy from this Pokémon.",
+        "energy_cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Flareon ex"
+    ]
+  },
+  {
+    "name": "Torkoal",
+    "type": "Fire",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Flamethrower",
+        "damage": 70,
+        "effect": "Discard a [R] Energy from this Pokémon.",
+        "energy_cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Torkoal"
+    ]
+  },
+  {
+    "name": "Litten",
+    "type": "Fire",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Flare",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Litten",
+      "Torracat",
+      "Incineroar"
+    ]
+  },
+  {
+    "name": "Torracat",
+    "type": "Fire",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "damage": 50,
+        "effect": "",
+        "energy_cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Litten",
+      "Torracat",
+      "Incineroar"
+    ]
+  },
+  {
+    "name": "Incineroar",
+    "type": "Fire",
+    "hp": 150,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Darkest Lariat 100x",
+        "damage": 0,
+        "effect": "Flip 2 coins. This attack does 100 damage for each heads.",
+        "energy_cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Litten",
+      "Torracat",
+      "Incineroar"
+    ]
+  },
+  {
+    "name": "Salandit",
+    "type": "Fire",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Ember",
+        "damage": 30,
+        "effect": "Discard a [R] Energy from this Pokémon.",
+        "energy_cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Salandit",
+      "Salazzle"
+    ]
+  },
+  {
+    "name": "Salazzle",
+    "type": "Fire",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Combustion",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 0,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Salandit",
+      "Salazzle"
+    ]
+  },
+  {
+    "name": "Vaporeon",
+    "type": "Water",
+    "hp": 120,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Hyper Whirlpool",
+        "damage": 70,
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+        "energy_cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Vaporeon"
+    ]
+  },
+  {
+    "name": "Glaceon",
+    "type": "Water",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Ice Blade",
+        "damage": 0,
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+        "energy_cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Glaceon"
+    ]
+  },
+  {
+    "name": "Vanillite",
+    "type": "Water",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": 10,
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+        "energy_cost": [
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Vanillite",
+      "Vanillish",
+      "Vanilluxe"
+    ]
+  },
+  {
+    "name": "Vanillish",
+    "type": "Water",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": 30,
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+        "energy_cost": [
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Vanillite",
+      "Vanillish",
+      "Vanilluxe"
+    ]
+  },
+  {
+    "name": "Vanilluxe",
+    "type": "Water",
+    "hp": 140,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Double Spin 80x",
+        "damage": 0,
+        "effect": "Flip 2 coins. This attack does 80 damage for each heads.",
+        "energy_cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Vanillite",
+      "Vanillish",
+      "Vanilluxe"
+    ]
+  },
+  {
+    "name": "Alomomola",
+    "type": "Water",
+    "hp": 110,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Water Pulse",
+        "damage": 50,
+        "effect": "Your opponent's Active Pokémon is now Asleep.",
+        "energy_cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Alomomola"
+    ]
+  },
+  {
+    "name": "Popplio",
+    "type": "Water",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Watering",
+        "damage": 30,
+        "effect": "",
+        "energy_cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Popplio",
+      "Brionne",
+      "Primarina ex"
+    ]
+  },
+  {
+    "name": "Brionne",
+    "type": "Water",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Popplio",
+      "Brionne",
+      "Primarina ex"
+    ]
+  },
+  {
+    "name": "Primarina ex",
+    "type": "Water",
+    "hp": 180,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "damage": 40,
+        "effect": "If this Pokémon has at least 1 extra [W] Energy attached, this attack does 40 more damage.",
+        "energy_cost": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Sparkling Aria",
+        "damage": 100,
+        "effect": "Heal 20 damage from this Pokémon.",
+        "energy_cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Popplio",
+      "Brionne",
+      "Primarina ex"
+    ]
+  },
+  {
+    "name": "Jolteon",
+    "type": "Lightning",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Beginning Bolt",
+        "damage": 40,
+        "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+        "energy_cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Jolteon"
+    ]
+  },
+  {
+    "name": "Joltik",
+    "type": "Lightning",
+    "hp": 40,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Jolt",
+        "damage": 10,
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "energy_cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Joltik",
+      "Galvantula"
+    ]
+  },
+  {
+    "name": "Galvantula",
+    "type": "Lightning",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Electric Shock",
+        "damage": 70,
+        "effect": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed.",
+        "energy_cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 0,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Joltik",
+      "Galvantula"
+    ]
+  },
+  {
+    "name": "Espeon",
+    "type": "Psychic",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Energy Crush 20x",
+        "damage": 0,
+        "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.",
+        "energy_cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Espeon"
+    ]
+  },
+  {
+    "name": "Woobat",
+    "type": "Psychic",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Gust",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Woobat",
+      "Swoobat"
+    ]
+  },
+  {
+    "name": "Swoobat",
+    "type": "Psychic",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Woobat",
+      "Swoobat"
+    ]
+  },
+  {
+    "name": "Swirlix",
+    "type": "Psychic",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": 10,
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Swirlix",
+      "Slurpuff"
+    ]
+  },
+  {
+    "name": "Slurpuff",
+    "type": "Psychic",
+    "hp": 120,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": 30,
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Swirlix",
+      "Slurpuff"
+    ]
+  },
+  {
+    "name": "Sylveon",
+    "type": "Psychic",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Evoharmony",
+        "damage": 40,
+        "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
+        "energy_cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Sylveon"
+    ]
+  },
+  {
+    "name": "Sylveon ex",
+    "type": "Psychic",
+    "hp": 140,
+    "abilities": [
+      {
+        "name": "Ability Happy Ribbon",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fairy Wind",
+        "damage": 70,
+        "effect": "",
+        "energy_cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Sylveon ex"
+    ]
+  },
+  {
+    "name": "Mimikyu",
+    "type": "Psychic",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Try to Imitate",
+        "damage": 0,
+        "effect": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+        "energy_cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Mimikyu"
+    ]
+  },
+  {
+    "name": "Milcery",
+    "type": "Psychic",
+    "hp": 50,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": 10,
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Milcery",
+      "Alcremie"
+    ]
+  },
+  {
+    "name": "Alcremie",
+    "type": "Psychic",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sweets Overload 40x",
+        "damage": 0,
+        "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Milcery",
+      "Alcremie"
+    ]
+  },
+  {
+    "name": "Barboach",
+    "type": "Fighting",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Mud Shot",
+        "damage": 30,
+        "effect": "",
+        "energy_cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Barboach",
+      "Whiscash"
+    ]
+  },
+  {
+    "name": "Whiscash",
+    "type": "Fighting",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Earthquake",
+        "damage": 130,
+        "effect": "This attack also does 10 damage to each of your Benched Pokémon.",
+        "energy_cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Barboach",
+      "Whiscash"
+    ]
+  },
+  {
+    "name": "Mienfoo",
+    "type": "Fighting",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Kick Shot",
+        "damage": 40,
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "energy_cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "weakness": "Psychic",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Mienfoo",
+      "Mienshao"
+    ]
+  },
+  {
+    "name": "Mienshao",
+    "type": "Fighting",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Low Kick",
+        "damage": 70,
+        "effect": "",
+        "energy_cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "weakness": "Psychic",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Mienfoo",
+      "Mienshao"
+    ]
+  },
+  {
+    "name": "Carbink",
+    "type": "Fighting",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Hard Roll",
+        "damage": 30,
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon.",
+        "energy_cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Carbink"
+    ]
+  },
+  {
+    "name": "Umbreon",
+    "type": "Darkness",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Dark Binding",
+        "damage": 40,
+        "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+        "energy_cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Umbreon"
+    ]
+  },
+  {
+    "name": "Sableye",
+    "type": "Darkness",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "damage": 30,
+        "effect": "",
+        "energy_cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Sableye"
+    ]
+  },
+  {
+    "name": "Purrloin",
+    "type": "Darkness",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Playful Knockdown",
+        "damage": 0,
+        "effect": "Discard all Pokémon Tools from your opponent's Active Pokémon.",
+        "energy_cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Purrloin",
+      "Liepard"
+    ]
+  },
+  {
+    "name": "Liepard",
+    "type": "Darkness",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Slashing Claw",
+        "damage": 70,
+        "effect": "",
+        "energy_cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Purrloin",
+      "Liepard"
+    ]
+  },
+  {
+    "name": "Mawile",
+    "type": "Metal",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Powerful Vise",
+        "damage": 30,
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "energy_cost": [
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Mawile"
+    ]
+  },
+  {
+    "name": "Togedemaru",
+    "type": "Metal",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Bristling Spikes",
+        "damage": 30,
+        "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
+        "energy_cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Togedemaru"
+    ]
+  },
+  {
+    "name": "Meltan",
+    "type": "Metal",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Meltan",
+      "Melmetal"
+    ]
+  },
+  {
+    "name": "Melmetal",
+    "type": "Metal",
+    "hp": 140,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Mega Punch",
+        "damage": 90,
+        "effect": "",
+        "energy_cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 4,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Meltan",
+      "Melmetal"
+    ]
+  },
+  {
+    "name": "Dratini",
+    "type": "Dragon",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Beat",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "none",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite ex"
+    ]
+  },
+  {
+    "name": "Dragonair",
+    "type": "Dragon",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Waterfall",
+        "damage": 60,
+        "effect": "",
+        "energy_cost": [
+          "Water",
+          "Lightning"
+        ]
+      }
+    ],
+    "weakness": "none",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite ex"
+    ]
+  },
+  {
+    "name": "Dragonite ex",
+    "type": "Dragon",
+    "hp": 180,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "damage": 180,
+        "effect": "During your next turn, this Pokémon can't attack.",
+        "energy_cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "none",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Dratini",
+      "Dragonair",
+      "Dragonite ex"
+    ]
+  },
+  {
+    "name": "Drampa",
+    "type": "Dragon",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Dragon Breath",
+        "damage": 70,
+        "effect": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "none",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Drampa"
+    ]
+  },
+  {
+    "name": "Eevee",
+    "type": "Colorless",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Collect",
+        "damage": 0,
+        "effect": "Draw a card.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee",
+      "Leafeon",
+      "Flareon",
+      "Flareon ex",
+      "Vaporeon",
+      "Glaceon",
+      "Jolteon",
+      "Espeon",
+      "Sylveon",
+      "Sylveon ex",
+      "Umbreon"
+    ]
+  },
+  {
+    "name": "Eevee ex",
+    "type": "Colorless",
+    "hp": 90,
+    "abilities": [
+      {
+        "name": "Ability Veevee ’volve",
+        "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": 30,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Eevee ex"
+    ]
+  },
+  {
+    "name": "Snorlax ex",
+    "type": "Colorless",
+    "hp": 160,
+    "abilities": [
+      {
+        "name": "Ability Full-Mouth Manner",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Down Punch",
+        "damage": 130,
+        "effect": "This Pokémon is now Asleep.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 4,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Snorlax ex"
+    ]
+  },
+  {
+    "name": "Aipom",
+    "type": "Colorless",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Double Hit 20x",
+        "damage": 0,
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Aipom",
+      "Ambipom"
+    ]
+  },
+  {
+    "name": "Ambipom",
+    "type": "Colorless",
+    "hp": 90,
+    "abilities": [
+      {
+        "name": "Ability Catching Tail",
+        "effect": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Corkscrew Punch",
+        "damage": 50,
+        "effect": "",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Aipom",
+      "Ambipom"
+    ]
+  },
+  {
+    "name": "Chatot",
+    "type": "Colorless",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Deaf",
+        "damage": 10,
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Chatot"
+    ]
+  },
+  {
+    "name": "Audino",
+    "type": "Colorless",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Do the Wave 20x",
+        "damage": 0,
+        "effect": "This attack does 20 damage for each of your Benched Pokémon.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Audino"
+    ]
+  },
+  {
+    "name": "Minccino",
+    "type": "Colorless",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Pound",
+        "damage": 10,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Minccino",
+      "Cinccino"
+    ]
+  },
+  {
+    "name": "Cinccino",
+    "type": "Colorless",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Slap",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Minccino",
+      "Cinccino"
+    ]
+  },
+  {
+    "name": "Skwovet",
+    "type": "Colorless",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": 30,
+        "effect": "",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Skwovet",
+      "Greedent"
+    ]
+  },
+  {
+    "name": "Greedent",
+    "type": "Colorless",
+    "hp": 120,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Enhanced Fang",
+        "damage": 50,
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Skwovet",
+      "Greedent"
+    ]
+  },
+  {
+    "name": "Eevee Bag",
+    "card_type": "Trainer",
+    "trainer_type": "Item",
+    "effect": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.② Heal 20 damage from each of your Pokémon that evolves from Eevee.",
+    "one_per_turn": false
+  },
+  {
+    "name": "Leftovers",
+    "card_type": "Trainer",
+    "trainer_type": "Unknown",
+    "effect": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon.",
+    "one_per_turn": false
+  },
+  {
+    "name": "Hau",
+    "card_type": "Trainer",
+    "trainer_type": "Supporter",
+    "effect": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon.",
+    "one_per_turn": true
+  },
+  {
+    "name": "Penny",
+    "card_type": "Trainer",
+    "trainer_type": "Supporter",
+    "effect": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.",
+    "one_per_turn": true
+  },
+  {
+    "name": "Pinsir",
+    "type": "Grass",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Guillotine Rush",
+        "damage": 50,
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+        "energy_cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Pinsir"
+    ]
+  },
+  {
+    "name": "Lapras",
+    "type": "Water",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "damage": 20,
+        "effect": "If this Pokémon has at least 3 extra [W] Energy attached, this attack does 70 more damage.",
+        "energy_cost": [
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Lapras"
+    ]
+  },
+  {
+    "name": "Voltorb",
+    "type": "Lightning",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Big Explosion",
+        "damage": 30,
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "energy_cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Voltorb",
+      "Electrode"
+    ]
+  },
+  {
+    "name": "Electrode",
+    "type": "Lightning",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Rolling Attack",
+        "damage": 50,
+        "effect": "",
+        "energy_cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Voltorb",
+      "Electrode"
+    ]
+  },
+  {
+    "name": "Ralts",
+    "type": "Psychic",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Teleport",
+        "damage": 0,
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir",
+      "Gallade ex"
+    ]
+  },
+  {
+    "name": "Kirlia",
+    "type": "Psychic",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Slap",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir",
+      "Gallade ex"
+    ]
+  },
+  {
+    "name": "Gardevoir",
+    "type": "Psychic",
+    "hp": 110,
+    "abilities": [
+      {
+        "name": "Ability Psy Shadow",
+        "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to the [P] Pokémon in the Active Spot."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": 60,
+        "effect": "",
+        "energy_cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Ralts",
+      "Kirlia",
+      "Gardevoir"
+    ]
+  },
+  {
+    "name": "Ekans",
+    "type": "Darkness",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Ekans",
+      "Arbok"
+    ]
+  },
+  {
+    "name": "Arbok",
+    "type": "Darkness",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Corner",
+        "damage": 60,
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "energy_cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Ekans",
+      "Arbok"
+    ]
+  },
+  {
+    "name": "Farfetch'd",
+    "type": "Colorless",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Leek Slap",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Farfetch'd"
+    ]
+  },
+  {
+    "name": "Moltres ex",
+    "type": "Fire",
+    "hp": 140,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Inferno Dance",
+        "damage": 0,
+        "effect": "Flip 3 coins. Take an amount of [R] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [R] Pokémon in any way you like.",
+        "energy_cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Heat Blast",
+        "damage": 70,
+        "effect": "",
+        "energy_cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Moltres ex"
+    ]
+  },
+  {
+    "name": "Articuno ex",
+    "type": "Water",
+    "hp": 140,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Ice Wing",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Water",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Blizzard",
+        "damage": 80,
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+        "energy_cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Articuno ex"
+    ]
+  },
+  {
+    "name": "Zapdos ex",
+    "type": "Lightning",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Peck",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Lightning"
+        ]
+      },
+      {
+        "name": "Thundering Hurricane 50x",
+        "damage": 0,
+        "effect": "Flip 4 coins. This attack does 50 damage for each heads.",
+        "energy_cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Zapdos ex"
+    ]
+  },
+  {
+    "name": "Gallade ex",
+    "type": "Fighting",
+    "hp": 170,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Energized Blade",
+        "damage": 70,
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "energy_cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "weakness": "Psychic",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "evolution_line": [
+      "Ralts",
+      "Kirlia",
+      "Gallade ex"
+    ]
+  }
+]
