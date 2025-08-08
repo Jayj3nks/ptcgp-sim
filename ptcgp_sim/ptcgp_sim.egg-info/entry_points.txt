@@ -1,0 +1,2 @@
+[console_scripts]
+ptcgp = ptcgp_sim.cli:app

@@ -17,3 +17,9 @@ dependencies = [
 
 [project.scripts]
 ptcgp = "ptcgp_sim.cli:app"
+
+[tool.setuptools]
+package-dir = {"" = "ptcgp_sim"}  # source code is under ./ptcgp_sim/
+
+[tool.setuptools.packages.find]
+where = ["ptcgp_sim"]             # find packages in that folder
