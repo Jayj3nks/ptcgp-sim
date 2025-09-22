@@ -1,3 +1,0 @@
-meta
-ptcgp_sim
-tests
