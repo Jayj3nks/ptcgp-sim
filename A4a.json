@@ -1,0 +1,2168 @@
+[
+  {
+    "name": "Hoppip",
+    "type": "Grass",
+    "hp": 50,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Splash",
+        "damage": 10,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_001_EN_SM.webp",
+    "evolution_line": [
+      "Hoppip",
+      "Skiploom",
+      "Jumpluff ex"
+    ]
+  },
+  {
+    "name": "Skiploom",
+    "type": "Grass",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Bounce",
+        "damage": 30,
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_002_EN_SM.webp",
+    "evolution_line": [
+      "Hoppip",
+      "Skiploom",
+      "Jumpluff ex"
+    ]
+  },
+  {
+    "name": "Jumpluff ex",
+    "type": "Grass",
+    "hp": 160,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "By Attack",
+        "damage": 70,
+        "effect": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_003_EN_SM.webp",
+    "evolution_line": [
+      "Hoppip",
+      "Skiploom",
+      "Jumpluff ex"
+    ]
+  },
+  {
+    "name": "Sunkern",
+    "type": "Grass",
+    "hp": 50,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": 10,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_004_EN_SM.webp",
+    "evolution_line": [
+      "Sunkern",
+      "Sunflora"
+    ]
+  },
+  {
+    "name": "Sunflora",
+    "type": "Grass",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Trip Over",
+        "damage": 50,
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "energy_cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_005_EN_SM.webp",
+    "evolution_line": [
+      "Sunkern",
+      "Sunflora"
+    ]
+  },
+  {
+    "name": "Celebi",
+    "type": "Grass",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Temporal Leaves",
+        "damage": 40,
+        "effect": "If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting the highest Stage Evolution card on it into your opponent's hand.",
+        "energy_cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_006_EN_SM.webp",
+    "evolution_line": [
+      "Celebi"
+    ]
+  },
+  {
+    "name": "Durant",
+    "type": "Grass",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Mountain Munch",
+        "damage": 40,
+        "effect": "Discard the top card of your opponent's deck.",
+        "energy_cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "weakness": "Fire",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_007_EN_SM.webp",
+    "evolution_line": [
+      "Durant"
+    ]
+  },
+  {
+    "name": "Slugma",
+    "type": "Fire",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Combustion",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_008_EN_SM.webp",
+    "evolution_line": [
+      "Slugma",
+      "Magcargo"
+    ]
+  },
+  {
+    "name": "Magcargo",
+    "type": "Fire",
+    "hp": 120,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Heat Blast",
+        "damage": 90,
+        "effect": "",
+        "energy_cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_009_EN_SM.webp",
+    "evolution_line": [
+      "Slugma",
+      "Magcargo"
+    ]
+  },
+  {
+    "name": "Entei ex",
+    "type": "Fire",
+    "hp": 140,
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Blazing Beatdown",
+        "damage": 60,
+        "effect": "If this Pokémon has at least 2 extra [R] Energy attached, this attack does 60 more damage.",
+        "energy_cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_010_EN_SM.webp",
+    "evolution_line": [
+      "Entei ex"
+    ]
+  },
+  {
+    "name": "Fletchinder",
+    "type": "Fire",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Fire Wing",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_011_EN_SM.webp",
+    "evolution_line": [
+      "Fletchling",
+      "Fletchinder",
+      "Talonflame"
+    ]
+  },
+  {
+    "name": "Talonflame",
+    "type": "Fire",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Searing Flame",
+        "damage": 50,
+        "effect": "Your opponent's Active Pokémon is now Burned.",
+        "energy_cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_012_EN_SM.webp",
+    "evolution_line": [
+      "Fletchling",
+      "Fletchinder",
+      "Talonflame"
+    ]
+  },
+  {
+    "name": "Poliwag",
+    "type": "Water",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "damage": 0,
+        "effect": "Put 1 random Poliwag from your deck onto your Bench.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_013_EN_SM.webp",
+    "evolution_line": [
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath ex"
+    ]
+  },
+  {
+    "name": "Poliwhirl",
+    "type": "Water",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": 30,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_014_EN_SM.webp",
+    "evolution_line": [
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath ex"
+    ]
+  },
+  {
+    "name": "Tentacool",
+    "type": "Water",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Poison Sting",
+        "damage": 20,
+        "effect": "Your opponent's Active Pokémon is now Poisoned.",
+        "energy_cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_015_EN_SM.webp",
+    "evolution_line": [
+      "Tentacool",
+      "Tentacruel"
+    ]
+  },
+  {
+    "name": "Tentacruel",
+    "type": "Water",
+    "hp": 110,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Stun Poison",
+        "damage": 50,
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned and Paralyzed.",
+        "energy_cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_016_EN_SM.webp",
+    "evolution_line": [
+      "Tentacool",
+      "Tentacruel"
+    ]
+  },
+  {
+    "name": "Slowpoke",
+    "type": "Water",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_017_EN_SM.webp",
+    "evolution_line": [
+      "Slowpoke",
+      "Slowking"
+    ]
+  },
+  {
+    "name": "Slowking",
+    "type": "Water",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Litter 50x",
+        "damage": 0,
+        "effect": "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way.",
+        "energy_cost": [
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_018_EN_SM.webp",
+    "evolution_line": [
+      "Slowpoke",
+      "Slowking"
+    ]
+  },
+  {
+    "name": "Jynx",
+    "type": "Water",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Dazzle Dance",
+        "damage": 40,
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "energy_cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_019_EN_SM.webp",
+    "evolution_line": [
+      "Jynx"
+    ]
+  },
+  {
+    "name": "Suicune ex",
+    "type": "Water",
+    "hp": 140,
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Crystal Waltz 20x",
+        "damage": 0,
+        "effect": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's).",
+        "energy_cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_020_EN_SM.webp",
+    "evolution_line": [
+      "Suicune ex"
+    ]
+  },
+  {
+    "name": "Feebas",
+    "type": "Water",
+    "hp": 30,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Leap Out",
+        "damage": 0,
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "energy_cost": [
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_021_EN_SM.webp",
+    "evolution_line": [
+      "Feebas",
+      "Milotic"
+    ]
+  },
+  {
+    "name": "Milotic",
+    "type": "Water",
+    "hp": 120,
+    "abilities": [
+      {
+        "name": "Healing Ripples",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your [W] Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Aqua Edge",
+        "damage": 60,
+        "effect": "",
+        "energy_cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_022_EN_SM.webp",
+    "evolution_line": [
+      "Feebas",
+      "Milotic"
+    ]
+  },
+  {
+    "name": "Mantyke",
+    "type": "Water",
+    "hp": 30,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Splashy Toss",
+        "damage": 0,
+        "effect": "Take a [W] Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.",
+        "energy_cost": []
+      }
+    ],
+    "weakness": "none",
+    "retreat_cost": 0,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_023_EN_SM.webp",
+    "evolution_line": [
+      "Mantyke"
+    ]
+  },
+  {
+    "name": "Cryogonal",
+    "type": "Water",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Ice Blade",
+        "damage": 0,
+        "effect": "This attack does 40 damage to 1 of your opponent's Pokémon.",
+        "energy_cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Metal",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_024_EN_SM.webp",
+    "evolution_line": [
+      "Cryogonal"
+    ]
+  },
+  {
+    "name": "Raikou ex",
+    "type": "Lightning",
+    "hp": 130,
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Voltaic Bullet",
+        "damage": 60,
+        "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+        "energy_cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_025_EN_SM.webp",
+    "evolution_line": [
+      "Raikou ex"
+    ]
+  },
+  {
+    "name": "Tynamo",
+    "type": "Lightning",
+    "hp": 40,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Tiny Bolt",
+        "damage": 10,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 0,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_026_EN_SM.webp",
+    "evolution_line": [
+      "Tynamo",
+      "Eelektrik",
+      "Eelektross"
+    ]
+  },
+  {
+    "name": "Eelektrik",
+    "type": "Lightning",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Electro Ball",
+        "damage": 50,
+        "effect": "",
+        "energy_cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_027_EN_SM.webp",
+    "evolution_line": [
+      "Tynamo",
+      "Eelektrik",
+      "Eelektross"
+    ]
+  },
+  {
+    "name": "Eelektross",
+    "type": "Lightning",
+    "hp": 150,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Wild Charge",
+        "damage": 120,
+        "effect": "This Pokémon also does 20 damage to itself.",
+        "energy_cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_028_EN_SM.webp",
+    "evolution_line": [
+      "Tynamo",
+      "Eelektrik",
+      "Eelektross"
+    ]
+  },
+  {
+    "name": "Stunfisk",
+    "type": "Lightning",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Static Shock",
+        "damage": 50,
+        "effect": "",
+        "energy_cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_029_EN_SM.webp",
+    "evolution_line": [
+      "Stunfisk"
+    ]
+  },
+  {
+    "name": "Yamper",
+    "type": "Lightning",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Zap Kick",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_030_EN_SM.webp",
+    "evolution_line": [
+      "Yamper",
+      "Boltund"
+    ]
+  },
+  {
+    "name": "Boltund",
+    "type": "Lightning",
+    "hp": 120,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Defiant Spark",
+        "damage": 70,
+        "effect": "If this Pokémon has damage on it, this attack can be used for 1 [L] Energy.",
+        "energy_cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_031_EN_SM.webp",
+    "evolution_line": [
+      "Yamper",
+      "Boltund"
+    ]
+  },
+  {
+    "name": "Misdreavus",
+    "type": "Psychic",
+    "hp": 50,
+    "abilities": [
+      {
+        "name": "Infiltrating Inspection",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may have your opponent reveal their hand."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Wisp",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_032_EN_SM.webp",
+    "evolution_line": [
+      "Misdreavus",
+      "Mismagius"
+    ]
+  },
+  {
+    "name": "Mismagius",
+    "type": "Psychic",
+    "hp": 100,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Cursed Prose",
+        "damage": 0,
+        "effect": "At the end of your opponent's next turn, do 90 damage to the Defending Pokémon.",
+        "energy_cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_033_EN_SM.webp",
+    "evolution_line": [
+      "Misdreavus",
+      "Mismagius"
+    ]
+  },
+  {
+    "name": "Galarian Corsola",
+    "type": "Psychic",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_034_EN_SM.webp",
+    "evolution_line": [
+      "Galarian Corsola",
+      "Galarian Cursola"
+    ]
+  },
+  {
+    "name": "Galarian Cursola",
+    "type": "Psychic",
+    "hp": 80,
+    "abilities": [
+      {
+        "name": "Perish Body",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, flip a coin. If heads, the Attacking Pokémon is Knocked Out."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Spooky Shot",
+        "damage": 60,
+        "effect": "",
+        "energy_cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_035_EN_SM.webp",
+    "evolution_line": [
+      "Galarian Corsola",
+      "Galarian Cursola"
+    ]
+  },
+  {
+    "name": "Latias",
+    "type": "Psychic",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Crossing Flights",
+        "damage": 20,
+        "effect": "If Latios is on your Bench, this attack does 20 more damage.",
+        "energy_cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_036_EN_SM.webp",
+    "evolution_line": [
+      "Latias"
+    ]
+  },
+  {
+    "name": "Latios",
+    "type": "Psychic",
+    "hp": 110,
+    "abilities": [
+      {
+        "name": "Fantastical Floating",
+        "effect": "If you have Latias in play, this Pokémon has no Retreat Cost."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Luster Purge",
+        "damage": 120,
+        "effect": "Discard all Energy from this Pokémon.",
+        "energy_cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_037_EN_SM.webp",
+    "evolution_line": [
+      "Latios"
+    ]
+  },
+  {
+    "name": "Frillish",
+    "type": "Psychic",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Absorb",
+        "damage": 10,
+        "effect": "Heal 10 damage from this Pokémon.",
+        "energy_cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_038_EN_SM.webp",
+    "evolution_line": [
+      "Frillish",
+      "Jellicent"
+    ]
+  },
+  {
+    "name": "Jellicent",
+    "type": "Psychic",
+    "hp": 110,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Devour Soul",
+        "damage": 80,
+        "effect": "",
+        "energy_cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_039_EN_SM.webp",
+    "evolution_line": [
+      "Frillish",
+      "Jellicent"
+    ]
+  },
+  {
+    "name": "Diglett",
+    "type": "Fighting",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": 10,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_040_EN_SM.webp",
+    "evolution_line": [
+      "Diglett",
+      "Dugtrio"
+    ]
+  },
+  {
+    "name": "Dugtrio",
+    "type": "Fighting",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Cliff Crumbler",
+        "damage": 40,
+        "effect": "Discard the top card of your deck. If that card is a [F] Pokémon, this attack does 60 more damage.",
+        "energy_cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_041_EN_SM.webp",
+    "evolution_line": [
+      "Diglett",
+      "Dugtrio"
+    ]
+  },
+  {
+    "name": "Poliwrath ex",
+    "type": "Fighting",
+    "hp": 180,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Hydro Knuckle",
+        "damage": 100,
+        "effect": "If this Pokémon has any [W] Energy attached, this attack does 40 more damage.",
+        "energy_cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Psychic",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_042_EN_SM.webp",
+    "evolution_line": [
+      "Poliwag",
+      "Poliwhirl",
+      "Poliwrath ex"
+    ]
+  },
+  {
+    "name": "Phanpy",
+    "type": "Fighting",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Flail",
+        "damage": 0,
+        "effect": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.",
+        "energy_cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_043_EN_SM.webp",
+    "evolution_line": [
+      "Phanpy",
+      "Donphan"
+    ]
+  },
+  {
+    "name": "Donphan",
+    "type": "Fighting",
+    "hp": 120,
+    "abilities": [
+      {
+        "name": "Exoskeleton",
+        "effect": "This Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Land Crush",
+        "damage": 80,
+        "effect": "",
+        "energy_cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 4,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_044_EN_SM.webp",
+    "evolution_line": [
+      "Phanpy",
+      "Donphan"
+    ]
+  },
+  {
+    "name": "Relicanth",
+    "type": "Fighting",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Take Down",
+        "damage": 50,
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_045_EN_SM.webp",
+    "evolution_line": [
+      "Relicanth"
+    ]
+  },
+  {
+    "name": "Dwebble",
+    "type": "Fighting",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sand Spray",
+        "damage": 30,
+        "effect": "",
+        "energy_cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_046_EN_SM.webp",
+    "evolution_line": [
+      "Dwebble",
+      "Crustle"
+    ]
+  },
+  {
+    "name": "Crustle",
+    "type": "Fighting",
+    "hp": 140,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Stone Edge",
+        "damage": 100,
+        "effect": "Flip a coin. If heads, this attack does 50 more damage.",
+        "energy_cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 4,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_047_EN_SM.webp",
+    "evolution_line": [
+      "Dwebble",
+      "Crustle"
+    ]
+  },
+  {
+    "name": "Seviper",
+    "type": "Darkness",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Fateful Fang",
+        "damage": 40,
+        "effect": "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage.",
+        "energy_cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_048_EN_SM.webp",
+    "evolution_line": [
+      "Seviper"
+    ]
+  },
+  {
+    "name": "Zorua",
+    "type": "Darkness",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_049_EN_SM.webp",
+    "evolution_line": [
+      "Zorua",
+      "Zoroark"
+    ]
+  },
+  {
+    "name": "Zoroark",
+    "type": "Darkness",
+    "hp": 100,
+    "abilities": [
+      {
+        "name": "Illusive Trickery",
+        "effect": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from-and effects of-attacks done to this Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Night Daze",
+        "damage": 70,
+        "effect": "",
+        "energy_cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_050_EN_SM.webp",
+    "evolution_line": [
+      "Zorua",
+      "Zoroark"
+    ]
+  },
+  {
+    "name": "Inkay",
+    "type": "Darkness",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_051_EN_SM.webp",
+    "evolution_line": [
+      "Inkay",
+      "Malamar"
+    ]
+  },
+  {
+    "name": "Malamar",
+    "type": "Darkness",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Mental Surge",
+        "damage": 0,
+        "effect": "This attack does 20 damage to each of your opponent's Pokémon.",
+        "energy_cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_052_EN_SM.webp",
+    "evolution_line": [
+      "Inkay",
+      "Malamar"
+    ]
+  },
+  {
+    "name": "Skrelp",
+    "type": "Darkness",
+    "hp": 50,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Melt",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_053_EN_SM.webp",
+    "evolution_line": [
+      "Skrelp",
+      "Dragalge"
+    ]
+  },
+  {
+    "name": "Dragalge",
+    "type": "Darkness",
+    "hp": 110,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sludge Bomb",
+        "damage": 70,
+        "effect": "",
+        "energy_cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_054_EN_SM.webp",
+    "evolution_line": [
+      "Skrelp",
+      "Dragalge"
+    ]
+  },
+  {
+    "name": "Altaria",
+    "type": "Dragon",
+    "hp": 120,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Dragon Arcana",
+        "damage": 40,
+        "effect": "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "none",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_055_EN_SM.webp",
+    "evolution_line": [
+      "Swablu",
+      "Altaria"
+    ]
+  },
+  {
+    "name": "Farfetch'd",
+    "type": "Colorless",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Leek Slam",
+        "damage": 60,
+        "effect": "",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_056_EN_SM.webp",
+    "evolution_line": [
+      "Farfetch'd"
+    ]
+  },
+  {
+    "name": "Lickitung",
+    "type": "Colorless",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Stretch Tongue",
+        "damage": 0,
+        "effect": "This attack does 30 damage to 1 of your opponent's Pokémon.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_057_EN_SM.webp",
+    "evolution_line": [
+      "Lickitung",
+      "Lickilicky"
+    ]
+  },
+  {
+    "name": "Lickilicky",
+    "type": "Colorless",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Stretch Tongue",
+        "damage": 0,
+        "effect": "This attack does 60 damage to 1 of your opponent's Pokémon.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_058_EN_SM.webp",
+    "evolution_line": [
+      "Lickitung",
+      "Lickilicky"
+    ]
+  },
+  {
+    "name": "Igglybuff",
+    "type": "Colorless",
+    "hp": 30,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sleepy Lullaby",
+        "damage": 10,
+        "effect": "Your opponent's Active Pokémon is now Asleep.",
+        "energy_cost": []
+      }
+    ],
+    "weakness": "none",
+    "retreat_cost": 0,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_059_EN_SM.webp",
+    "evolution_line": [
+      "Igglybuff"
+    ]
+  },
+  {
+    "name": "Teddiursa",
+    "type": "Colorless",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Surprise Attack",
+        "damage": 40,
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_060_EN_SM.webp",
+    "evolution_line": [
+      "Teddiursa",
+      "Ursaring"
+    ]
+  },
+  {
+    "name": "Ursaring",
+    "type": "Colorless",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "damage": 110,
+        "effect": "",
+        "energy_cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_061_EN_SM.webp",
+    "evolution_line": [
+      "Teddiursa",
+      "Ursaring"
+    ]
+  },
+  {
+    "name": "Miltank",
+    "type": "Colorless",
+    "hp": 110,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Rolling Frenzy",
+        "damage": 10,
+        "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_062_EN_SM.webp",
+    "evolution_line": [
+      "Miltank"
+    ]
+  },
+  {
+    "name": "Azurill",
+    "type": "Colorless",
+    "hp": 30,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Squishy Healing",
+        "damage": 0,
+        "effect": "Heal 50 damage from 1 of your Benched Pokémon.",
+        "energy_cost": []
+      }
+    ],
+    "weakness": "none",
+    "retreat_cost": 0,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_063_EN_SM.webp",
+    "evolution_line": [
+      "Azurill"
+    ]
+  },
+  {
+    "name": "Swablu",
+    "type": "Colorless",
+    "hp": 50,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Peck",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_064_EN_SM.webp",
+    "evolution_line": [
+      "Swablu",
+      "Altaria"
+    ]
+  },
+  {
+    "name": "Zangoose",
+    "type": "Colorless",
+    "hp": 80,
+    "abilities": [
+      {
+        "name": "Counterattack",
+        "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": 50,
+        "effect": "",
+        "energy_cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_065_EN_SM.webp",
+    "evolution_line": [
+      "Zangoose"
+    ]
+  },
+  {
+    "name": "Fletchling",
+    "type": "Colorless",
+    "hp": 50,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "damage": 10,
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_066_EN_SM.webp",
+    "evolution_line": [
+      "Fletchling",
+      "Fletchinder",
+      "Talonflame"
+    ]
+  },
+  {
+    "name": "Inflatable Boat",
+    "card_type": "Trainer",
+    "trainer_type": "Unknown",
+    "effect": "The Retreat Cost of the [W] Pokémon this card is attached to is 1 less.",
+    "one_per_turn": false,
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_067_EN_SM.webp"
+  },
+  {
+    "name": "Memory Light",
+    "card_type": "Trainer",
+    "trainer_type": "Unknown",
+    "effect": "The Pokémon this card is attached to can use any attack from its previous Evolutions. (You still need the necessary Energy to use each attack.)",
+    "one_per_turn": false,
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_068_EN_SM.webp"
+  },
+  {
+    "name": "Whitney",
+    "card_type": "Trainer",
+    "trainer_type": "Supporter",
+    "effect": "Heal 60 damage from 1 of your Miltank, and it recovers from being Asleep, Paralyzed, and Confused.",
+    "one_per_turn": true,
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_069_EN_SM.webp"
+  },
+  {
+    "name": "Traveling Merchant",
+    "card_type": "Trainer",
+    "trainer_type": "Supporter",
+    "effect": "Look at the top 4 cards of your deck. Put all Pokémon Tool cards you find there into your hand. Shuffle the other cards back into your deck.",
+    "one_per_turn": true,
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_070_EN_SM.webp"
+  },
+  {
+    "name": "Morty",
+    "card_type": "Trainer",
+    "trainer_type": "Supporter",
+    "effect": "For each of your [P] Pokémon in play, look at that many cards from the top of your opponent's deck and put them back in any order.",
+    "one_per_turn": true,
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_071_EN_SM.webp"
+  },
+  {
+    "name": "Chimchar",
+    "type": "Fire",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Scratch",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_091_EN_SM.webp",
+    "evolution_line": [
+      "Chimchar",
+      "Monferno",
+      "Infernape ex"
+    ]
+  },
+  {
+    "name": "Monferno",
+    "type": "Fire",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Fiery Punch",
+        "damage": 30,
+        "effect": "",
+        "energy_cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_092_EN_SM.webp",
+    "evolution_line": [
+      "Chimchar",
+      "Monferno",
+      "Infernape ex"
+    ]
+  },
+  {
+    "name": "Psyduck",
+    "type": "Water",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Headache",
+        "damage": 10,
+        "effect": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+        "energy_cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_093_EN_SM.webp",
+    "evolution_line": [
+      "Psyduck",
+      "Golduck"
+    ]
+  },
+  {
+    "name": "Golduck",
+    "type": "Water",
+    "hp": 90,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Aqua Edge",
+        "damage": 70,
+        "effect": "",
+        "energy_cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_094_EN_SM.webp",
+    "evolution_line": [
+      "Psyduck",
+      "Golduck"
+    ]
+  },
+  {
+    "name": "Krabby",
+    "type": "Water",
+    "hp": 70,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Vise Grip",
+        "damage": 40,
+        "effect": "",
+        "energy_cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 2,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_095_EN_SM.webp",
+    "evolution_line": [
+      "Krabby",
+      "Kingler"
+    ]
+  },
+  {
+    "name": "Kingler",
+    "type": "Water",
+    "hp": 120,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "KO Crab",
+        "damage": 80,
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 80 more damage.",
+        "energy_cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_096_EN_SM.webp",
+    "evolution_line": [
+      "Krabby",
+      "Kingler"
+    ]
+  },
+  {
+    "name": "Pyukumuku",
+    "type": "Water",
+    "hp": 60,
+    "abilities": [
+      {
+        "name": "Innards Out",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon."
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Sprinkle Water",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Water"
+        ]
+      }
+    ],
+    "weakness": "Lightning",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_097_EN_SM.webp",
+    "evolution_line": [
+      "Pyukumuku"
+    ]
+  },
+  {
+    "name": "Gible",
+    "type": "Fighting",
+    "hp": 60,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_098_EN_SM.webp",
+    "evolution_line": [
+      "Gible",
+      "Gabite",
+      "Garchomp ex"
+    ]
+  },
+  {
+    "name": "Gabite",
+    "type": "Fighting",
+    "hp": 80,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Sharp Scythe",
+        "damage": 30,
+        "effect": "",
+        "energy_cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_099_EN_SM.webp",
+    "evolution_line": [
+      "Gible",
+      "Gabite",
+      "Garchomp ex"
+    ]
+  },
+  {
+    "name": "Paldean Wooper",
+    "type": "Darkness",
+    "hp": 50,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Poison Jab",
+        "damage": 10,
+        "effect": "Your opponent's Active Pokémon is now Poisoned.",
+        "energy_cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_100_EN_SM.webp",
+    "evolution_line": [
+      "Paldean Wooper",
+      "Paldean Clodsire ex"
+    ]
+  },
+  {
+    "name": "Infernape ex",
+    "type": "Fire",
+    "hp": 170,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Flare Blitz",
+        "damage": 140,
+        "effect": "Discard all [R] Energy from this Pokémon.",
+        "energy_cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "weakness": "Water",
+    "retreat_cost": 0,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_101_EN_SM.webp",
+    "evolution_line": [
+      "Chimchar",
+      "Monferno",
+      "Infernape ex"
+    ]
+  },
+  {
+    "name": "Mew ex",
+    "type": "Psychic",
+    "hp": 130,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": 20,
+        "effect": "",
+        "energy_cost": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Genome Hacking",
+        "damage": 0,
+        "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+        "energy_cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Darkness",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_102_EN_SM.webp",
+    "evolution_line": [
+      "Mew ex"
+    ]
+  },
+  {
+    "name": "Garchomp ex",
+    "type": "Fighting",
+    "hp": 170,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Linear Attack",
+        "damage": 0,
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+        "energy_cost": [
+          "Fighting"
+        ]
+      },
+      {
+        "name": "Dragon Claw",
+        "damage": 100,
+        "effect": "",
+        "energy_cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "weakness": "Grass",
+    "retreat_cost": 1,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_103_EN_SM.webp",
+    "evolution_line": [
+      "Gible",
+      "Gabite",
+      "Garchomp ex"
+    ]
+  },
+  {
+    "name": "Paldean Clodsire ex",
+    "type": "Darkness",
+    "hp": 160,
+    "abilities": [],
+    "attacks": [
+      {
+        "name": "Venoshock",
+        "damage": 60,
+        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+        "energy_cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "weakness": "Fighting",
+    "retreat_cost": 3,
+    "card_type": "Pokémon",
+    "set_id": "A4a",
+    "image_url": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A4a/A4a_104_EN_SM.webp",
+    "evolution_line": [
+      "Paldean Wooper",
+      "Paldean Clodsire ex"
+    ]
+  }
+]
